@@ -41,12 +41,10 @@ Me apasiona usar la tecnología para encontrar respuestas en los datos. Vengo de
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas y Logros
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasFleitas&show_icons=true&bg_color=20232a&title_color=7fff00&icon_color=7fff00&text_color=fff&hide_border=true" alt="Estadísticas de GitHub" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFleitas&layout=compact&bg_color=20232a&title_color=7fff00&icon_color=7fff00&text_color=fff&hide_border=true" alt="Mis lenguajes más usados" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasFleitas&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
@@ -60,3 +58,5 @@ Me apasiona usar la tecnología para encontrar respuestas en los datos. Vengo de
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicolasFleitas&theme=chartreuse_dark" alt="Lenguaje con más Commits" />
 </div>
+
+
